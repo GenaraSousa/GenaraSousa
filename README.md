@@ -2,7 +2,7 @@
 
 
 <!-- - 🔭 Estou trabalhando com front-end -->
-- 🌱 Estou estudando React, React-Native & UI Design 
+- 🌱 Estou estudando backend em Nodejs 
 - 📫 Você pode entrar em contato: genara.contact@gmail.com
 
 <div align= "center">
